@@ -1,11 +1,12 @@
-[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://nirajanacharya.com.np) <h1 align="center">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nirajan Acharya
-=======================================================================================================================================
-<img align="right" width="400" alt="coding" src="https://i0.wp.com/media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?resize=404%2C226&ssl=1" >
+![](https://komarev.com/ghpvc/?username=NirajanAcharya666)
 
-Full-stack Web developer
-------------------------
+<a href="https://www.github.com/NirajanAcharya666" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NirajanAcharya666?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://nirajanacharya.com.np) <h1 align="center">
+<h1 align="center">Hi 👋 <span> I'm Nirajan Acharya</h1>
+<img align="right" width="600" alt="coding" src="https://i0.wp.com/media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?resize=404%2C226&ssl=1" >
 
 I am a web developer with a vast array of knowledge in many different front-end and back-end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continue making strides to learn all that I can about development. I believe that my understanding of problem-solving and complex algorithms are also skills that I have and will continue to contribute to my overall success as a developer
 
@@ -16,9 +17,6 @@ I am a web developer with a vast array of knowledge in many different front-end 
 * 🧠  I'm learning Blockchain Technology
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am secretly Iron man...but don't tell anyone
-
-<a href="https://www.github.com/NirajanAcharya666" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NirajanAcharya666?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -63,5 +61,3 @@ src="https://img.shields.io/github/followers/NirajanAcharya666?logo=github&style
 <a href="http://www.github.com/NirajanAcharya666"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajanAcharya666&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/NirajanAcharya666"><img src="https://activity-graph.herokuapp.com/graph?username=NirajanAcharya666&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/NirajanAcharya666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanAcharya666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
