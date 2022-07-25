@@ -6,7 +6,7 @@ src="https://img.shields.io/github/followers/NirajanAcharya666?logo=github&style
 
 [![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://nirajanacharya.com.np) <h1 align="center">
 <h1 align="center">Hi 👋 <span> I'm Nirajan Acharya</h1>
-<img align="right" width="600" alt="coding" src="https://i0.wp.com/media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?resize=404%2C226&ssl=1" >
+<img align="right" width="400" alt="coding" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" >
 
 I am a web developer with a vast array of knowledge in many different front-end and back-end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continue making strides to learn all that I can about development. I believe that my understanding of problem-solving and complex algorithms are also skills that I have and will continue to contribute to my overall success as a developer
 
