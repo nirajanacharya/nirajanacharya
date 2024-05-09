@@ -8,7 +8,13 @@ src="https://img.shields.io/github/followers/NirajanAcharya666?logo=github&style
 <h1 align="center">Hi 👋 <span> I'm Nirajan Acharya</h1>
 <img align="right" width="400" alt="coding" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" >
 
-I am Computer Engineering student and a web developer with a vast array of knowledge in many different front-end and back-end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continue making strides to learn all that I can about development. I believe that my understanding of problem-solving and complex algorithms are also skills that I have and will continue to contribute to my overall success as a developer
+I am Nirajan Acharya, a Beta Microsoft Student Ambassador and a Computer Engineering student at the Institute of Engineering. I am passionate about the potential of AI to foster positive transformations in various domains and challenges.
+
+As a Microsoft Learn Student Ambassador, I facilitate exploration of Microsoft technologies, encouraging peers to embrace learning and innovation. I have received multiple honors and certifications for my contributions and achievements, such as the Letter of Appreciation, the Postman Student Experts, and the Microsoft AI Classroom Series.
+
+I also actively engage in diverse technology initiatives and projects within the Omdena and Pathao communities, where I collaborate with other AI enthusiasts and professionals to address real-world problems through AI-driven solutions. I have completed our joint research with my friends on the development of AI-based crop recommendation systems, striving to enhance agricultural productivity and resource efficiency.
+
+I am always eager to connect with other like-minded individuals and organizations who share my vision and values, and to explore opportunities for collaboration and advancement in the realm of technology and AI. Let's get in touch!
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [Nirajan\_acharya.com.np](https://calm-field-013c57510.5.azurestaticapps.net/)
