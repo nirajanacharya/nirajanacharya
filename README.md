@@ -11,10 +11,8 @@ src="https://img.shields.io/github/followers/NirajanAcharya666?logo=github&style
 I am Computer Engineering student and a web developer with a vast array of knowledge in many different front-end and back-end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continue making strides to learn all that I can about development. I believe that my understanding of problem-solving and complex algorithms are also skills that I have and will continue to contribute to my overall success as a developer
 
 * 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [Nirajan\_acharya.com.np](http://nirajanacharya.com.np)
-* ✉️  You can contact me at [contact@nirajanacharya.com.np](mailto:contact@nirajanacharya.com.np)
-* 🚀  I'm currently working on [Upwork](http://upwork.com)
-* 🧠  I'm learning Deep Learning
+* 🖥️  See my portfolio at [Nirajan\_acharya.com.np](https://calm-field-013c57510.5.azurestaticapps.net/)
+* ✉️  You can contact me at [contact@nirajanacharya.com.np](mailto:nirajan.acharya666@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 
