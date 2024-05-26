@@ -9,7 +9,7 @@ I am Nirajan Acharya, a Beta Microsoft Student Ambassador and Computer Engineeri
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NirajanAcharya666&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NirajanAcharya666&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanAcharya666&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
