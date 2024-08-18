@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=NirajanAcharya666)
+![](https://komarev.com/ghpvc/?username=nirajanacharya)
 
 <a href="https://www.github.com/NirajanAcharya666" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NirajanAcharya666?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
