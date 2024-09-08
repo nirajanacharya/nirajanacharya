@@ -3,7 +3,7 @@
   <img src="https://github.com/nirajanacharya/nirajanacharya/blob/main/ascii-art.png" width="150" height="150" alt="Nirajan Acharya Profile Image">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Nirajan Acharya</h1>
+<h1 align="center">Namaste, I'm Nirajan Acharya</h1>
 
 <!-- Short Description in Code Style -->
 ```python
@@ -21,6 +21,5 @@ class NirajanAcharya:
 me = NirajanAcharya()
 print(me.greeting())
 ```
-[![Nirajan Acharya stats](https://github-readme-stats.vercel.app/api?username=nirajanacharya)](https://github.com/anuraghazra/github-readme-stats)
 
 
