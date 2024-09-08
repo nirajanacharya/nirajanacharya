@@ -1,1 +1,26 @@
-Sun Sep  8 01:36:48 UTC 2024
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://github.com/nirajanacharya/nirajanacharya/blob/main/ascii-art.png" width="150" height="150" alt="Nirajan Acharya Profile Image">
+</p>
+
+<h1 align="center">Hi there 👋, I'm Nirajan Acharya</h1>
+
+<!-- Short Description in Code Style -->
+```python
+class NirajanAcharya:
+    def __init__(self):
+        self.name = "Nirajan Acharya"
+        self.role = "Software Engineer | Microsoft Student Ambassador "
+        self.language_spoken = ["en_US", "ne_NP"]
+        self.current_focus = "Developing AI-driven web applications"
+        self.interests = ["Open Source", "AI/ML", "Web Development", "Community Work"]
+
+    def greeting(self):
+        return "Welcome to my GitHub Profile!"
+
+me = NirajanAcharya()
+print(me.greeting())
+```
+[![Nirajan Acharya stats](https://github-readme-stats.vercel.app/api?username=nirajanacharya)](https://github.com/anuraghazra/github-readme-stats)
+
+
