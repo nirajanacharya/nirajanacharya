@@ -2,8 +2,8 @@ name: Update README with Date
 
 on:
   schedule:
-    # Runs every day at 12:00 PM UTC
-    - cron: '0 12 * * *'
+    # Runs every day at 03:05 AM UTC (equivalent to 8:50 AM Nepal time)
+    - cron: '5 3 * * *'
 
 jobs:
   update-readme:
@@ -25,4 +25,11 @@ jobs:
           git config --global user.email "nirajan.acharya666@gmail.com"
           git add README.md
           git commit -m "Automated update: $(date)"
-          git push
+
+      - name: Pull latest changes
+        run: |
+          git pull --rebase
+
+      - name: Push changes
+        run: |
+          git push origin HEAD
