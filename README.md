@@ -20,6 +20,3 @@ class NirajanAcharya:
 
 me = NirajanAcharya()
 print(me.greeting())
-```
-
-
