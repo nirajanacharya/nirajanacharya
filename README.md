@@ -1,9 +1,11 @@
+ [![committers.top badge](https://user-badge.committers.top/nepal/nirajanacharya.svg)](https://user-badge.committers.top/nepal/nirajanacharya) 
 <!-- Profile Image -->
 <p align="center">
   <img src="https://github.com/nirajanacharya/nirajanacharya/blob/main/ascii-art.png" width="150" height="150" alt="Nirajan Acharya Profile Image">
 </p>
 
 <h1 align="center">Namaste, I'm Nirajan Acharya</h1>
+
 
 ```python
 class NirajanAcharya:
@@ -19,3 +21,6 @@ class NirajanAcharya:
 
 me = NirajanAcharya()
 print(me.greeting())
+
+```
+
