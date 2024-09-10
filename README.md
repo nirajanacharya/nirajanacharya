@@ -5,7 +5,6 @@
 
 <h1 align="center">Namaste, I'm Nirajan Acharya</h1>
 
-<!-- Short Description in Code Style -->
 ```python
 class NirajanAcharya:
     def __init__(self):
