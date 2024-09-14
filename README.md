@@ -2,7 +2,7 @@
 <!-- Profile Image -->
 <p align="center">
   <img src="https://github.com/nirajanacharya/nirajanacharya/blob/main/ascii-art.png" width="150" height="150" alt="Nirajan Acharya Profile Image">
-</p>
+</p> 
 
 <h1 align="center">Namaste, I'm Nirajan Acharya</h1>
 
