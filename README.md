@@ -1,6 +1,6 @@
   [![committers.top badge](https://user-badge.committers.top/nepal/nirajanacharya.svg)](https://user-badge.committers.top/nepal/nirajanacharya) 
 <!-- Profile Image -->
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/nirajanacharya/nirajanacharya/blob/main/ascii-art.png" width="150" height="150" alt="Nirajan Acharya Profile Image">
 </p> 
 
