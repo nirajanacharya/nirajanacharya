@@ -24,5 +24,4 @@ print(me.greeting())
 
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nirajanacharya&theme=blue-green)](https://git.io/streak-stats)
 
